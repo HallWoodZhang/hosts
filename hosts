@@ -44,6 +44,7 @@
 54.231.48.40	github-com.s3.amazonaws.com
 # Amazon AWS End
 
+
 # Apkpure Start
 104.20.82.194	apkpure.com
 104.20.82.194	a.apkpure.com
@@ -94,6 +95,10 @@
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
 # Disqus End
+
+# doub.io start
+168.235.75.151 doub.io
+# doub.io end
 
 # Dropbox Start
 108.160.173.233	db.tt
